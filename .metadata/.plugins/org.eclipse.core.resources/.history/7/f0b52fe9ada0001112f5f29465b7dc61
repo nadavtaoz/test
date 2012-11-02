@@ -1,0 +1,22 @@
+
+public class area 
+{
+	public static void main(String args[])
+	{
+		double rad,he,are;
+	
+		he=2*(3.14)*6;
+		are=(3.14)*36;
+		System.out.println("the hekef" +he+" and the area is" +are);
+		
+	}
+
+	
+	
+	
+	
+	
+	
+	
+	
+}

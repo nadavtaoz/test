@@ -1,0 +1,5 @@
+package DivideByZeroException;
+
+public class ImpossibleComputationException {
+
+}
